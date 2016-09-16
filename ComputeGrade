@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class ComputeGrade{
+
+ public static void main(string[] args){
+  
+   Scanner input = SCanner(System.in);
+ } 
+}
